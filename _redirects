@@ -1,0 +1,2 @@
+/public/*   /public/:splat   200
+/*   https://www.casasoda.com/:splat   301!
